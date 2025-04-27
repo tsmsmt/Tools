@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Tools.bat 🌌</h1>
+<h1 align="center">🌌 Tools 🌌</h1>
 <p align="center">
 Interesting tools that I found all over the internet, modified and now I'm sharing them with you.💞
 </p>
@@ -34,7 +34,7 @@ Interesting tools that I found all over the internet, modified and now I'm shari
 
 ```bash
 # Clone this repository
-git clone https://github.com/tsmsmt/Tools.bat.git
+git clone https://github.com/tsmsmt/Tools.git
 
 # Navigate into the project
-cd Tools.bat
+cd Tools
