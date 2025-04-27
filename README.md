@@ -4,10 +4,10 @@ Interesting tools that I found all over the internet, modified and now I'm shari
 </p>
 
 <p align="center">
-  <a href="#✨About the tools✨">About the tool</a> •
-  <a href="#features">Features</a> •
-  <a href="#setup">Setup</a> •
-  <a href="#license">License</a> •
+  •<a href="#✨About the tools✨">About the tool</a>  •
+  <a href="#features">Features</a>  •
+  <a href="#setup">Setup</a>  •
+  <a href="#license">License</a>
 </p>
 
 ---
