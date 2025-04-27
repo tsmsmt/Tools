@@ -16,8 +16,8 @@ Interesting tools that I found all over the internet, modified and now I'm shari
 
 > "Creativity is intelligence having fun." — Albert Einstein
 
-1.Networkstat.bat  : A tool that shows: WiFi SSID, connection status, connection strength, WiFi adapter model, ping and packet loss, and the amount of data sent and received.
-2.WiFiprofiles.bat : A tool that: Shows all the WiFis you've connected to along with their passwords.
+1.Networkstat.bat  : A tool that shows: WiFi SSID, connection status, connection strength, WiFi adapter model, ping and packet loss, and the amount of data sent and received. <br/>
+2.WiFiprofiles.bat : A tool that: Shows all the WiFis you've connected to along with their passwords. <br/>
 3.  • • • 
 
 ---
