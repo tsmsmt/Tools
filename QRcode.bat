@@ -6,15 +6,15 @@ mode 44,21
 :loop
 cls
 echo ============================================
-echo           TSMSMT QR Code Generator
+echo             QR Code Generator
 echo ============================================
 
-:: اضافه کردن چند خط خالی برای پایین آوردن QR Code
+
 echo.
 echo.
 echo.
 
-:: گرفتن ورودی از کاربر
+
 echo Enter text or URL for QR Code:
 set /p site=URL: 
 
@@ -26,15 +26,15 @@ if "%site%"=="" (
 
 cls
 echo ============================================
-echo           TSMSMT QR Code Generator
+echo              QR Code Generator
 echo ============================================
 
-:: اضافه کردن چند خط خالی برای بهتر دیده شدن
+
 echo.
 echo.
 echo.
 
-:: نمایش QR Code
+
 echo.
 curl -s "qrenco.de/%site%"
 
