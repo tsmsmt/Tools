@@ -7,7 +7,7 @@ title Redirect.TSMSMT
 :menu
 cls
 echo =============================================
-echo         TSMSMT Advanced Web Checker
+echo            Advanced Web Checker
 echo =============================================
 echo 1. Check Redirects
 echo 2. View HTTP Headers
@@ -43,10 +43,10 @@ echo.
 echo Checking Redirects...
 echo.
 
-:: دریافت کد وضعیت HTTP
+
 for /f "tokens=2 delims= " %%A in ('curl --head --location --silent "%site%" ^| findstr /R "^HTTP/"') do set status=%%A
 
-:: دریافت آخرین آدرس ریدایرکت‌شده
+
 set "finalLocation="
 for /f "tokens=2 delims= " %%B in ('curl --head --location --silent "%site%" ^| findstr /I "^Location:"') do set finalLocation=%%B
 
